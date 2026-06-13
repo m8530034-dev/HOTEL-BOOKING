@@ -1,0 +1,6 @@
+{
+  "name": "Premium Luxury Hotel Booking Platform",
+  "description": "An enterprise-grade luxury travel platform featuring curated hotel suites, availability tracking, interactive reservation dashboard, and an AI-powered travel concierge assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
